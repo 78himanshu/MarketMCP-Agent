@@ -175,5 +175,5 @@ MarketMCP-Agent demonstrates how a financial data API can be turned into an agen
 
 ## Author
 
-Himanshu Paithane
+Himanshu 
 
